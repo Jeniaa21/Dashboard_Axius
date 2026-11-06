@@ -1,0 +1,26 @@
+{
+ "nom": "C8255",
+ "ordre": 4,
+ "caracteristiques": [
+  [
+   "Vitesse",
+   "55 ppm couleur et N&B"
+  ],
+  [
+   "Chargeur de documents",
+   "130 feuilles / 161 ipm"
+  ],
+  [
+   "Magasins",
+   "520 feuilles chacun"
+  ],
+  [
+   "Finisseur Office intégré",
+   "Oui"
+  ],
+  [
+   "Dimensions (mm)",
+   "620 × 1130 × 723"
+  ]
+ ]
+}

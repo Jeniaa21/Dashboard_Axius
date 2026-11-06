@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Dépannage imprimantes</title>
+<link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+<header class="top">
+ <div class="logo">Dépannage imprimantes<small id="sub"></small></div>
+ <select id="marque" aria-label="Marque"></select>
+ <select id="gamme" aria-label="Gamme"></select>
+ <select id="modele" aria-label="Modèle"></select>
+ <div class="sb"><input id="q" type="search" placeholder="Code d'erreur (ex. 71-530-00) ou problème (ex. bourrage magasin 2)" autocomplete="off"><button id="go" aria-label="Chercher">🔍</button></div>
+ <label class="chk"><input type="checkbox" id="ver"> Fiches vérifiées seulement</label>
+</header>
+<main id="main"></main>
+<script src="site/plan3d.js"></script>
+<script src="scenes.js"></script>
+<script src="catalogue.js"></script>
+<script src="site/app.js"></script>
+</body>
+</html>

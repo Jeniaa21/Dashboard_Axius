@@ -1,0 +1,12 @@
+{
+ "nom": "Color LaserJet Managed MFP E47528",
+ "description": "Multifonction laser couleur A4 HP, 27 ppm.",
+ "categories": {
+  "bourrages": "Bourrages papier",
+  "qualite-impression": "Qualité d'impression",
+  "consommables": "Consommables et compatibilité",
+  "erreurs": "Codes d'erreur",
+  "reseau-scan": "Réseau et numérisation",
+  "notes": "Notes techniques"
+ }
+}

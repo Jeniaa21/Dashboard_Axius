@@ -1,0 +1,58 @@
+[
+ {
+  "n": 1,
+  "nom": "Chargeur de documents"
+ },
+ {
+  "n": 2,
+  "nom": "Glace d'exposition"
+ },
+ {
+  "n": 3,
+  "nom": "Panneau de commande et écran"
+ },
+ {
+  "n": 4,
+  "nom": "Bouton Marche/Réveil"
+ },
+ {
+  "n": 5,
+  "nom": "Porte avant (toner, tambour)"
+ },
+ {
+  "n": 6,
+  "nom": "Magasins 1 à 4"
+ },
+ {
+  "n": 7,
+  "nom": "Départ manuel"
+ },
+ {
+  "n": 8,
+  "nom": "Porte A (four)"
+ },
+ {
+  "n": 9,
+  "nom": "Porte B"
+ },
+ {
+  "n": 10,
+  "nom": "Bac gauche / finisseur Office intégré"
+ },
+ {
+  "n": 11,
+  "nom": "Module de finition"
+ },
+ {
+  "n": 12,
+  "nom": "Bac grande capacité"
+ },
+ {
+  "n": 13,
+  "nom": "Module livret"
+ },
+ {
+  "n": 14,
+  "nom": "Module de pliage C/Z"
+ }
+]

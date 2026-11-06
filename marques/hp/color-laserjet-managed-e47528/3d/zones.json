@@ -1,0 +1,34 @@
+[
+ {
+  "n": 1,
+  "nom": "Chargeur de documents (ADF)"
+ },
+ {
+  "n": 2,
+  "nom": "Glace d'exposition"
+ },
+ {
+  "n": 3,
+  "nom": "Écran tactile 4,3 pouces"
+ },
+ {
+  "n": 4,
+  "nom": "Bouton Marche"
+ },
+ {
+  "n": 5,
+  "nom": "Porte avant (cartouches de toner)"
+ },
+ {
+  "n": 6,
+  "nom": "Bac 2 / bac 3 optionnel"
+ },
+ {
+  "n": 7,
+  "nom": "Bac 1 multifonction"
+ },
+ {
+  "n": 8,
+  "nom": "Bac de sortie"
+ }
+]

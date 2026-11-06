@@ -1,0 +1,16 @@
+DÉPANNAGE IMPRIMANTES
+=====================
+Utiliser le site : double-cliquez sur lancer.bat (ou ouvrez index.html).
+Ajouter des informations : déposez un fichier .md dans marques\xerox\altalink-c8200\commun\guide\<catégorie>\
+(copiez marques\_modele-de-fiche.md), puis double-cliquez sur construire.bat et rechargez la page.
+construire.bat vérifie vos fiches et affiche ce qui est à corriger.
+
+Rangement
+  marques\<marque>\<gamme>\commun\   ce qui vaut pour toute la gamme
+  marques\<marque>\<gamme>\modeles\  ce qui est propre à un modèle (c8230, c8270…)
+  marques\<marque>\<gamme>\3d\       plan 3D (scene.js) et zones (zones.json)
+  site\    le moteur du site (ne pas toucher)
+  archives\ l'ancien projet, mis de côté
+
+Nouvelle gamme : copiez le dossier altalink-c8200, renommez-le, adaptez gamme.json et modeles\.
+Nouvelle marque : créez marques\<marque>\marque.json avec {"nom": "HP"} puis ses gammes.
